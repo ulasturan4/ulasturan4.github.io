@@ -3,6 +3,7 @@ project:
 
 website:
   title: "Ulas Naki Turan"
+  domain: ulasnakituran.com
   navbar:
     background: "#6b4f2c"   # kahverengi ton (örnek)
     foreground: "white"     # yazı rengi
