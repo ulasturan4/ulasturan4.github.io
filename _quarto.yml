@@ -1,0 +1,40 @@
+project:
+  type: website
+
+website:
+  title: "Ulas Naki Turan"
+  navbar:
+    background: "#6b4f2c"   # kahverengi ton (örnek)
+    foreground: "white"     # yazı rengi
+    left:
+      - text: "Research"
+        href: research.qmd
+      - text: "Projects"
+        href: projects.qmd
+      - text: "Publications"
+        href: publications.qmd
+      - text: "Software"
+        href: software.qmd
+      - text: "CV"
+        href: cv.qmd
+    right:
+      - icon: envelope
+        href: "mailto:ulasnaki.turan@tu-dortmund.de"
+      - icon: github
+        href: "https://github.com/ulasturan4"
+      - icon: linkedin
+        href: "https://www.linkedin.com/in/ulasturan4/"
+
+  search:
+    location: navbar
+    type: textbox
+    limit: 50
+
+format:
+  html:
+    theme: cosmo
+    toc: false
+    css: css/styles.css
+    page-layout: full
+
+output-dir: docs
