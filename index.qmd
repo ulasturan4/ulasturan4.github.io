@@ -1,0 +1,32 @@
+---
+title: "Ulas Naki Turan"
+subtitle: "M.Sc. Data Science student at TU Dortmund University"
+page-layout: full
+
+about:
+  template: trestles
+  image: images/profile.jpg
+  image-alt: "Portrait of Ulas Naki Turan"
+  image-shape: rounded
+  links:
+    - icon: envelope
+      text: Email
+      href: mailto:ulasnaki.turan@tu-dortmund.de
+    - icon: github
+      text: GitHub
+      href: https://github.com/ulasturan4
+    - icon: linkedin
+      text: LinkedIn
+      href: https://www.linkedin.com/in/ulasturan4/
+
+format:
+  html
+---
+
+I am a Data Science M.Sc. student at **TU Dortmund University**, where my academic work focuses on **Computational Statistics**, **Machine Learning**, and the theoretical foundations of **probabilistic data analysis**. TU Dortmund’s strong emphasis on **statistical theory and computational modeling** has provided me with a rigorous understanding of uncertainty quantification, inference, and model evaluation—core principles that guide modern data science.
+
+Complementing this academic foundation, I bring several years of professional experience as a **Software Implementation Engineer** at **Globit Global Information Technologies (Istanbul)**, specializing in **Treasury Technology** for financial institutions. My role has involved developing and maintaining high-performance trading infrastructures for banks and large-scale organizations across the EMEA region, where I designed **automation pipelines**, **custom reporting systems**, and **integration frameworks** using **Shell scripting**, **T-SQL**, **Java (FIX protocol)**, and **TIBCO middleware**. I also contributed to the implementation of **CI/CD pipelines** and process automation to enhance the scalability and reliability of financial systems.
+
+This dual background—rooted in both **statistical methodology** and **software systems engineering**—allows me to bridge the gap between analytical theory and computational practice. I am particularly interested in developing data-driven infrastructures that integrate **robust statistical reasoning** with **modern software architectures**, enabling scalable, interpretable, and reproducible solutions.
+
+Through this interdisciplinary perspective, I aim to contribute to the next generation of **computationally efficient and statistically principled data science tools**, uniting insights from **academic research** and **enterprise-level software engineering**. This fusion of skills positions me at the intersection of theory and implementation—capable of navigating both the mathematical depth of data modeling and the technical demands of real-world systems.
